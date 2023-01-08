@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/tusharbansal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tusharbansal1" height="30" width="40" /></a>
+<a href="https://leetcode.com/user8132hw/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="tushar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
