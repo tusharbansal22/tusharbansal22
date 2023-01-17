@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharbansal22](https://github.com/tusharbansal22)
 
-- 📫 How to reach me **tusharbansal@iitbhilai.ac.in**
+- 📫 Reach me at **tusharbansal@iitbhilai.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
