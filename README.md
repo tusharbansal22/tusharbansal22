@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharbansal22](https://github.com/tusharbansal22)
 
+- 📈 My skills includes App Development, Full Stack Web Development, UI/UX Designing, Web Scraping.
+
+- 📖 Currently learning Machine Learning using Tensorflow  
+
 - 📫 Reach me at **tusharbansal@iitbhilai.ac.in**
 
 <h3 align="left">Connect with me:</h3>
