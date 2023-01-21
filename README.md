@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharbansal22" alt="tusharbansal22" /></a> </p>
 
-- 🔭 I’m currently working on [Instipay](https://github.com/OpenLake/Insti-Pay)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharbansal22](https://github.com/tusharbansal22)
 
