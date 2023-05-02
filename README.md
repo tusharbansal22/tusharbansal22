@@ -14,8 +14,9 @@
 
 <h3 align="center">Let's Connect !</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/tusharbansal1" target="blank"><img align="center" src="https://camo.githubusercontent.com/ccb5a051989c2ffe08f1923845d7611fc6f73b25d610fbebbffd300a5e79f8ed/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f6d6973632f66622d696d6167652d69636f6e2e706e67" alt="tusharbansal1" height="30" width="40" /></a>
-<a href="https://leetcode.com/user8132hw/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="tushar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/tushar-bansal-0b8b30241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tushar-bansal-0b8b30241/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tusharbansal1" target="blank"><img align="center" src="https://img.icons8.com/color/512/codechef.png" alt="tusharbansal1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/user8132hw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8132hw/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
